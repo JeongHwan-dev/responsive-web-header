@@ -1,1 +1,47 @@
-/* 초기 세팅 */
+body {
+  font-family: "Source sans Pro";
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* NAV BAR */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background-color: #263343;
+}
+
+/* NAV BAR LOGO */
+.navbar__logo {
+  font-style: 24px;
+  color: #fff;
+}
+.navbar__logo i {
+  color: #d49466;
+}
+
+/* NAV BAR MENU */
+.navbar__menu {
+  display: flex;
+}
+.navbar__menu li {
+  padding: 8px 12px;
+  transition: all 0.3s;
+}
+.navbar__menu li:hover {
+  background-color: #d49466;
+  border-radius: 4px;
+}
+
+/* NAV BAR ICONS */
+.navbar__icons {
+  display: flex;
+  color: #fff;
+}
+.navbar__icons i {
+  padding: 8px 12px;
+}
