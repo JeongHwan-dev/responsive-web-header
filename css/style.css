@@ -39,8 +39,8 @@ a {
   transition: all 0.3s;
 }
 .navbar__menu li:hover {
-  background-color: var(--accent-color);
   border-radius: 4px;
+  background-color: var(--accent-color);
 }
 
 /* NAV BAR ICONS */
