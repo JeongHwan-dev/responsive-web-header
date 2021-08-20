@@ -1,5 +1,7 @@
 <div align="center">
   <br />
+  <img src="./images/title_logo.jpg" alt="Responsive Web Header" width="300px" />
+  <br />
   <h1>반응형 웹 헤더</h1>
   <a href="https://app.netlify.com/sites/happy-einstein-fc8546/deploys">
     <img src="https://api.netlify.com/api/v1/badges/825a6412-e24c-471f-84d9-ca43293f4b6c/deploy-status" alt="netlify" />
