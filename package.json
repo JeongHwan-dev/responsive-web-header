@@ -1,0 +1,24 @@
+{
+  "name": "responsive-web-header",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <br />\r   <h1>반응형 웹 헤더</h1>\r   <br />\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongHwan-dev/responsive-web-header.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeongHwan-dev/responsive-web-header/issues"
+  },
+  "homepage": "https://github.com/JeongHwan-dev/responsive-web-header#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
