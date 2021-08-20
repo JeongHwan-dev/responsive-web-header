@@ -44,6 +44,10 @@
 
 ## 📄 실행 화면
 
+|                                       반응형 웹 헤더                                        |
+| :-----------------------------------------------------------------------------------------: |
+| <img src="./images/responsive-web-header.gif" alt="Responsive Web Header" width="1200px" /> |
+
 <br />
 
 <div id="4"></div>
