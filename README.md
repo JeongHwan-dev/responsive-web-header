@@ -1,7 +1,5 @@
 <div align="center">
   <br />
-  <img src="./images/title_logo.jpg" alt="Responsive Web Header" height="200px" />
-  <br />
   <h1>반응형 웹 헤더</h1>
   <a href="https://app.netlify.com/sites/happy-einstein-fc8546/deploys">
     <img src="https://api.netlify.com/api/v1/badges/825a6412-e24c-471f-84d9-ca43293f4b6c/deploy-status" alt="netlify" />
@@ -23,6 +21,10 @@
 ## 💁🏻‍♂ 코드 소개
 
 &nbsp;&nbsp;**CSS 미디어 쿼리(Media Queries)** 를 이용한 `반응형 웹 헤더`만을 구현한 코드입니다.
+
+<br />
+
+<img src="./images/example.jpg" alt="Responsive Web Header" height="200px" />
 
 <br />
 
