@@ -24,7 +24,7 @@
 
 <br />
 
-[**🔗 배포된 웹 서비스로 바로가기 Click !**](https://hopeful-elion-05bcf5.netlify.app/) 👈
+[**🔗 배포된 웹 서비스로 바로가기 Click !**](https://happy-einstein-fc8546.netlify.app/) 👈
 
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
